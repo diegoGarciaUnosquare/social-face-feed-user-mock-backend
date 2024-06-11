@@ -6,5 +6,13 @@
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
             "imgUrl": "https://picsum.photos/400/300"
         }
+    ],
+    "settings": [
+        {
+            "notificationPreference": 0,
+            "username": "jonD0e",
+            "profileVisibility": true,
+            "phone": "5512990012"
+        }
     ]
 }
