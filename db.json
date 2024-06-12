@@ -14,5 +14,15 @@
             "profileVisibility": true,
             "phone": "5512990012"
         }
+    ],
+    "profile": [
+        {
+            "id": 1,
+            "userId": 1,
+            "firstName": "Jon",
+            "lastName": "Doe",
+            "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "profilePicture": "assets/social_face_logo.svg"
+        }
     ]
 }
